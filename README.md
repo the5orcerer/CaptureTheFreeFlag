@@ -1,4 +1,5 @@
 # CaptureTheFreeFlag
+All free TryHackMe rooms, but free. Enjoy!
 
 ## Intro Rooms:
 
@@ -385,7 +386,7 @@
     https://tryhackme.com/room/adana
     https://tryhackme.com/room/vulnnetdotjar
 
-Special Events:
+## Special Events:
 
     https://tryhackme.com/room/hackerofthehill
     https://tryhackme.com/room/25daysofchristmas
@@ -431,3 +432,5 @@ Special Events:
     https://tryhackme.com/room/revilcorp
     https://tryhackme.com/room/sudovulnsbof
     https://tryhackme.com/room/sudovulnsbypass
+    
+### All links and rooms collected from [Sm4rty](https://sm4rty.medium.com/), thanks to him. \
