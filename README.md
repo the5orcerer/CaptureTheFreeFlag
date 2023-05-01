@@ -433,4 +433,4 @@ All free TryHackMe rooms, but free. Enjoy!
     https://tryhackme.com/room/sudovulnsbof
     https://tryhackme.com/room/sudovulnsbypass
     
-##### All links and rooms collected from [Sm4rty](https://sm4rty.medium.com/), thanks to him.
+##### All links and rooms collected from ![Sm4rty](https://sm4rty.medium.com/), thanks to him.
