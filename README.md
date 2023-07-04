@@ -1,5 +1,5 @@
 # CaptureTheFreeFlag
-All free TryHackMe rooms, but free. Enjoy!
+CaptureTheFreeFlag is a meticulously curated and continuously updated repository on GitHub, providing a comprehensive collection of free rooms available on TryHackMe. This invaluable resource is designed to assist aspiring cybersecurity enthusiasts, penetration testers, and ethical hackers in honing their skills and gaining practical experience in a safe and controlled environment.
 
 ## Intro Rooms:
 
